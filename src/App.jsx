@@ -23,7 +23,8 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR <br />
-          This is a test to push new code as a CI/CD process          
+          This is a test to push new code as a CI/CD process     
+          <b>Another test with Hokan...</b>     
         </p>
       </div>
       <p className="read-the-docs">
