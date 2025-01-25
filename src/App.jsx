@@ -22,7 +22,8 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code> and save to test HMR <br />
+          This is a test to push new code as a CI/CD process          
         </p>
       </div>
       <p className="read-the-docs">
